@@ -1,6 +1,6 @@
 # P5_Bubbles
 
-This project is a simple interactive sketch using the p5.js library. It creates bubbles that move around the canvas and allows users to add new bubbles by clicking on the canvas.
+This project is a simple interactive sketch using the p5.js library. It creates bubbles that move around the canvas and allows users to add new bubbles by clicking on the canvas. [Click hete to see the demo](https://zimquadery.github.io/P5_Bubbles/)
 
 ## Project Structure:
 * `bubble.js`: Contains the bubble class which defines the behavior of the bubbles. 
