@@ -10,9 +10,9 @@ This project is a simple interactive sketch using the p5.js library. It creates 
 * `sketch.js`: Main sketch file that sets up the canvas and handles the drawing and interaction logic. 
 * `style.css`: Basic CSS to style the canvas. 
 
-# How to run
+## How to run
 To run this project, simply open the `index.html` file in a web browser.
 
-Usage
+## Usage
 * The sketch will automatically create 10 bubbles at random positions on the canvas.
 * Click anywhere on the canvas to add a new bubble at the mouse position.
